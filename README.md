@@ -115,8 +115,6 @@ To get this project up and running on your local machine, follow these steps:
 ## Support
 For any further assistance, feel free to contact me at my [email](mryannugent@gmail.com).
 
-## Usage
-
 ## Acknowledgements
 - We extend our heartfelt thanks to the AI4Good Hackathon organizers (Drs. Umapathy and Richard), mentors, and FirstTee.
 - Special appreciation goes to my teammates, Walid and Michael, for their data science expertise, innovative solutions, and for creating a friendly and enjoyable environment during my first hackathon.
