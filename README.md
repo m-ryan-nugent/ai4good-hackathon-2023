@@ -99,7 +99,7 @@ To get this project up and running on your local machine, follow these steps:
 
 3. Create a virtual environment to manage your project dependencies separately:
 
-`pythoin -m venv venv`
+`python -m venv venv`
 
 4. Activate the virtual environment:
 - On Windows: `venv\Scripts\activate`
