@@ -1,0 +1,23 @@
+# Environment
+ai4good-hackathon/
+
+# IDE
+.vscode/
+
+# OS System Files
+.DS_Store
+
+# Bytecode
+*.pyc
+__pycache__/
+
+# Backup/Log
+*.Log
+*.bak
+
+# Dependency
+node_modules/
+
+# Build
+/Build
+/dist
