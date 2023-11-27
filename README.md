@@ -125,5 +125,5 @@ For any further assistance, feel free to contact me at my [email](mryannugent@gm
 
 ## Contact
 - Mark Nugent [n01174983@unf.edu](n01174983@unf.edu)
-- Michael Kimollo []()
+- Michael Kimollo [n01542707@unf.edu](n01542707@unf.edu)
 - Walid Kambagha [n01531675@unf.edu](n01531675@unf.edu)
